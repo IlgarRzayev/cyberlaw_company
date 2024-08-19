@@ -56,10 +56,10 @@
             </div>
             <div class="row justify-content-center mb-4">
                 <div class="col-md-6 mb-4 mb-md-0">
-                    <img src="images/img1.jpg" class="img-fluid" alt="Hacker image 1">
+                    <img src="images/img1.jpg" class="img-fluid" alt="img1">
                 </div>
                 <div class="col-md-6">
-                    <img src="images/img2.jpg" class="img-fluid" alt="Hacker image 2">
+                    <img src="images/img2.jpg" class="img-fluid" alt="img2">
                 </div>
             </div>
             <div>
