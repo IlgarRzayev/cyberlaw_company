@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (mysqli_query($connection, $query)) {
         header("Location: communicate.php");
     } else {
-        echo "Hata: " . mysqli_error($connection);
+        echo "Error: " . mysqli_error($connection);
     }
 
     mysqli_close($connection);
