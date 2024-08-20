@@ -70,7 +70,7 @@
             background-color: #1C86EE;
         }
 
-        /* Navbar toggler */
+       
         .navbar-toggler {
             display: none;
             flex-direction: column;
@@ -85,7 +85,7 @@
             background-color: #FFFFFF;
         }
 
-        /* Mobile view */
+       
         @media (max-width: 768px) {
             .cyberlaw-navbar {
                 flex-wrap: wrap;
